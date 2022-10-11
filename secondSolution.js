@@ -1,4 +1,4 @@
-const array = [-2, -1];
+const array = [-10, -5, 0, 5, 10];
 
 const squares = array.map((numb) => numb * numb);
 
